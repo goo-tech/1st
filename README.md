@@ -1,1 +1,1 @@
-![logo](/logo_master.png)
+![logo](logo_master.png)
